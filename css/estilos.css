@@ -1,0 +1,44 @@
+body {
+    background: #A2CFEA;
+    margin: 0;
+    font-family: 'Rubik', sans-serif;
+}
+
+header {
+    background-color: #F3F3F3;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.logo {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+    color: #e41b13; /* Rojo Coca-Cola */
+    font-family: 'Lobster', cursive;
+}
+
+footer {
+    background: #F3F3F3;
+    padding: 0.5em;
+    text-align: center;
+    color: #e41b13;
+    font-family: 'Rubik', sans-serif;
+    font-size: 1.2em;
+}
+
+#wrapper {
+    padding: 20px;
+}
+
+#slider1 img {
+    width: 660px;
+    height: 300px;
+}
